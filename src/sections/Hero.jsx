@@ -100,7 +100,7 @@ export const Hero = () => {
               </Button> */}
 
               <a
-                href="https://drive.google.com/file/d/1opu8F7_WQ4szKDNjVkn0--BqiA_cVFb6/view?usp=sharing"
+                href="https://drive.google.com/file/d/16C5b1-cbqaze2mLMWg54BXyadelwZVx7/view?usp=sharingN"
                 target="_blank"
                 rel="noopener noreferrer"
               >
